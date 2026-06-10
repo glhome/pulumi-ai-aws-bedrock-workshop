@@ -1,2 +1,4 @@
 environment:
-  - aicamp/workshop-aws-oidc
+  - aws-bedrock-workshop/dev
+config:
+  instructor:workshopName: pulumi-ai-aws-bedrock-workshop
